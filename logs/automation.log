@@ -1,0 +1,8 @@
+19:15:766.766 [main] ERROR TestCases.TC01_AccountRegistrationTest - Test Failed...
+19:15:39.039 [main] INFO  TestCases.TC02_LoginTest - ***************Login Functionality**************
+19:17:86.086 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TiaaUser\eclipse-workspace\OpenCart-Project\master.xml
+
+19:17:737.737 [main] INFO  TestCases.TC01_AccountRegistrationTest - *********** Straing Test Case ************
+19:17:752.752 [main] ERROR TestCases.TC01_AccountRegistrationTest - Test Failed...
+19:18:670.670 [main] INFO  TestCases.TC02_LoginTest - ***************Login Functionality**************

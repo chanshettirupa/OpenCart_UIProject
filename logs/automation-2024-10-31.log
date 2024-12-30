@@ -1,0 +1,53 @@
+12:33:734.734 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+12:33:749.749 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+12:33:750.750 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:33:750.750 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:33:751.751 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:33:751.751 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:33:752.752 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:33:752.752 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:33:755.755 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:33:755.755 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:33:755.755 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:33:755.755 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:33:756.756 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:33:757.757 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:33:757.757 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:33:757.757 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:33:757.757 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:33:758.758 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+12:33:759.759 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:33:759.759 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:33:759.759 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:33:759.759 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:33:772.772 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TiaaUser\AppData\Local\Temp\testng-eclipse-1645920376\testng-customsuite.xml
+
+12:33:789.789 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+12:33:970.970 [main] INFO  TestCases.TC01_AccountRegistrationTest - *********** Straing Test Case ************
+12:33:986.986 [main] ERROR TestCases.TC01_AccountRegistrationTest - Test Failed...
+12:33:234.234 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7918c7f8: 45 ms
+12:33:235.235 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@17740dae: 0 ms
+12:33:255.255 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2b61a019: 18 ms
+12:33:261.261 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@59496961: 5 ms
+12:33:265.265 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@a52ca2e: 4 ms
+12:33:266.266 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1ad8df52: 0 ms
+15:43:311.311 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TiaaUser\eclipse-workspace\OpenCart-Project\master.xml
+
+15:43:925.925 [main] INFO  TestCases.TC01_AccountRegistrationTest - *********** Straing Test Case ************
+15:43:966.966 [main] ERROR TestCases.TC01_AccountRegistrationTest - Test Failed...
+15:47:665.665 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TiaaUser\eclipse-workspace\OpenCart-Project\crossBrowserTestng.xml
+
+15:47:650.650 [main] INFO  TestCases.TC01_AccountRegistrationTest - *********** Straing Test Case ************
+15:47:677.677 [main] ERROR TestCases.TC01_AccountRegistrationTest - Test Failed...
+16:02:620.620 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TiaaUser\eclipse-workspace\OpenCart-Project\master.xml
+
+16:03:376.376 [main] INFO  TestCases.TC01_AccountRegistrationTest - *********** Straing Test Case ************
+16:03:405.405 [main] ERROR TestCases.TC01_AccountRegistrationTest - Test Failed...
+19:14:309.309 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TiaaUser\eclipse-workspace\OpenCart-Project\master.xml
+
+19:15:730.730 [main] INFO  TestCases.TC01_AccountRegistrationTest - *********** Straing Test Case ************
